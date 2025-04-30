@@ -57,6 +57,3 @@ PRODUCT_COPY_FILES += \
 
 # Inherit from vendor blobs
 $(call inherit-product, vendor/sony/pdx206/pdx206-vendor.mk)
-
-# Xperia Modules
-TARGET_SUPPORTS_HIGH_REFRESH_RATE := true
