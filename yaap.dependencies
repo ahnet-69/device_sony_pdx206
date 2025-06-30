@@ -1,6 +1,10 @@
 [
   {
-    "repository": "android_device_sony_sm8250-common",
+    "repository": "vendor_sony_pdx206",
+    "target_path": "vendor/sony/pdx206"
+  }
+  {
+    "repository": "device_sony_sm8250-common",
     "target_path": "device/sony/sm8250-common"
   }
 ]
