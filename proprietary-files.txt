@@ -13,6 +13,9 @@ vendor/etc/DrangeparaMP3_128.bin
 vendor/etc/DrangeparaMP3_160.bin
 vendor/etc/DrangeparaMP3_192.bin
 
+# Audio - Media vibration
+vendor/etc/media_vib/media_vib_params_rev3
+
 # Camera
 vendor/camera/CERVIN_0_EEPROM_FW_DATA_1_0x16631040.dat
 vendor/camera/CERVIN_0_EEPROM_FW_DATA_1_0x16632000.dat
