@@ -22,6 +22,9 @@ vendor/etc/zoom_noise_reduction/znr_48k_WideCam.tbl
 vendor/etc/zoom_noise_reduction/znr_48k_defaultCam.tbl
 vendor/etc/zoom_noise_reduction/znr_parameter.xml
 
+# Audio - Media vibration
+vendor/etc/media_vib/media_vib_params_rev3
+
 # Camera
 vendor/camera/CERVIN_0_EEPROM_FW_DATA_1_0x16631040.dat
 vendor/camera/CERVIN_0_EEPROM_FW_DATA_1_0x16632000.dat
