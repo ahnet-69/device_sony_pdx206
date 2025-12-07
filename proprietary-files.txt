@@ -5,7 +5,11 @@ vendor/etc/acdbdata/Sony_edo_Handset_cal.acdb
 vendor/etc/acdbdata/Sony_edo_Headset_cal.acdb
 vendor/etc/acdbdata/Sony_edo_Speaker_cal.acdb
 
-# Audio FX Modules
+# Audio FX Modules - DNNR
+vendor/etc/windnoise_reduction_stat.data
+vendor/etc/windnoise_reduction.data
+
+# Audio FX Modules - ZNR
 vendor/etc/zoom_noise_reduction/znr_44k_ComboCam.tbl
 vendor/etc/zoom_noise_reduction/znr_44k_FrontCHICam.tbl
 vendor/etc/zoom_noise_reduction/znr_44k_NoCam.tbl
