@@ -9,6 +9,14 @@ vendor/etc/acdbdata/Sony_edo_Speaker_cal.acdb
 vendor/etc/windnoise_reduction_stat.data
 vendor/etc/windnoise_reduction.data
 
+# Audio FX Modules - DSEE
+vendor/etc/DrangeparaAAC128.bin
+vendor/etc/DrangeparaAAC256.bin
+vendor/etc/DrangeparaAAC64.bin
+vendor/etc/DrangeparaMP3_128.bin
+vendor/etc/DrangeparaMP3_160.bin
+vendor/etc/DrangeparaMP3_192.bin
+
 # Audio FX Modules - ZNR
 vendor/etc/zoom_noise_reduction/znr_44k_ComboCam.tbl
 vendor/etc/zoom_noise_reduction/znr_44k_FrontCHICam.tbl
@@ -26,8 +34,14 @@ vendor/etc/zoom_noise_reduction/znr_48k_WideCam.tbl
 vendor/etc/zoom_noise_reduction/znr_48k_defaultCam.tbl
 vendor/etc/zoom_noise_reduction/znr_parameter.xml
 
-# Audio - Media vibration
+# Audio FX Modules - Media vibration
 vendor/etc/media_vib/media_vib_params_rev3
+
+# Audio FX Modules - 3DA
+vendor/etc/3da/com.sony.360ra.hrtf13.standard.hki
+vendor/etc/3da/sforce_coef
+vendor/etc/3da/universal32_v2_e.hki2
+vendor/etc/3da/unknown.ba
 
 # Camera
 vendor/camera/CERVIN_0_EEPROM_FW_DATA_1_0x16631040.dat
